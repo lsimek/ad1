@@ -1,0 +1,7 @@
+old
+data
+copy*
+working*
+.ipynb_checkpoints
+__pycache__
+google-credentials.json
