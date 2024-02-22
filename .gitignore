@@ -1,7 +1,9 @@
-old
-data
+old/
+data/
 copy*
-working*
+_*
+plots/test/
+plots/.ipynb_checkpoints
 .ipynb_checkpoints
 __pycache__
 google-credentials.json
