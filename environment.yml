@@ -193,4 +193,4 @@ dependencies:
       - pyasn1==0.5.1
       - pyasn1-modules==0.3.0
       - rsa==4.9
-prefix: /home/tinjano/miniconda3/envs/spacy-env
+prefix: /home/lsimek/miniconda3/envs/spacy-env
